@@ -8,14 +8,15 @@ This repository contains all the necessary files and documentation related to th
 
 ## 🔧 System Requirements & Access
 
-All simulations were run on the **CSF4 (Computational Shared Facility 4)**.
-All .stls were made using SimVascular, SOLIDWORKS, and Blender
-All .sims were made using Simcenter STAR-CCM+ v19.04.02
+All simulations were run on the **CSF4 (Computational Shared Facility 4)**.  
+All `.stl` files were created using **SimVascular**, **SOLIDWORKS**, and **Blender**.  
+All `.sim` files were built using **Simcenter STAR-CCM+ v19.04.02**.
 
-
-> 📌 **Access Note**: To use CSF4, please request access from **Dr. Amir Keshmiri** or **Dr. Ajay B. Harish**.
+> 📌 **Access Note:**  
+> To use CSF4, please request access from **Dr. Amir Keshmiri** or **Dr. Ajay B. Harish**.
 
 ---
+
 
 ## 🚀 Running the Simulations
 
