@@ -46,5 +46,14 @@ Each simulation folder typically contains the following files:
 
 ---
 
-Thanks, and good luck with your work!  
-**— Dineth**
+## 📬 Contact
+
+For queries:
+
+**Dineth Ilapperuma**  
+- [LinkedIn](https://www.linkedin.com/in/ilapperuma/)  
+- 📧 dineth.ilapperuma@gmail.com
+
+---
+
+✨ Happy simulating!
