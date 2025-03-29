@@ -48,15 +48,6 @@ Each simulation folder typically contains the following files:
 - Job scripts may require resource tweaking depending on your setup.
 - Start with smaller test cases if you're experimenting or debugging.
 
----
-
-## 📬 Contact
-
-For queries:
-
-**Dineth Ilapperuma**  
-- [LinkedIn](https://www.linkedin.com/in/ilapperuma/)  
-- 📧 dineth.ilapperuma@gmail.com
 
 ---
 
